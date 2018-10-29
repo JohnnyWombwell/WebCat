@@ -9,7 +9,7 @@
       "urls": [
         "/WebCat/favicon.ico",
         "/WebCat/index.html",
-        "/WebCat/main.2d74ca69b323f5fb001a.js",
+        "/WebCat/main.926b781767accbb63795.js",
         "/WebCat/polyfills.c6871e56cb80756a5498.js",
         "/WebCat/runtime.ec2944dd8b20ec099bf3.js",
         "/WebCat/styles.dc29bf9b69eb361f8300.css"
@@ -30,7 +30,9 @@
         "/WebCat/assets/icons/icon-72x72.png",
         "/WebCat/assets/icons/icon-96x96.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
@@ -44,8 +46,8 @@
     "/WebCat/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/WebCat/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/WebCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/WebCat/index.html": "28e4ac7e6a609765220735bd7b70bf6e528c62f5",
-    "/WebCat/main.2d74ca69b323f5fb001a.js": "e47f82e3fd0fc0c533afed56b15074bcbea0f1ba",
+    "/WebCat/index.html": "5e61eeac4c491ea99fc42093b5423b893970c82c",
+    "/WebCat/main.926b781767accbb63795.js": "ae03fdf2bbc8e0a658b2445eb32135ac051da269",
     "/WebCat/polyfills.c6871e56cb80756a5498.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
     "/WebCat/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/WebCat/styles.dc29bf9b69eb361f8300.css": "7a8fedf27ccbb6fb4701dbfc607d4a927885bd8c"
