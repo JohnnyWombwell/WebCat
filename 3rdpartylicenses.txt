@@ -332,6 +332,9 @@ THE SOFTWARE.
 
 @angular/material/card
 
+@angular/service-worker
+MIT
+
 zone.js
 MIT
 The MIT License
